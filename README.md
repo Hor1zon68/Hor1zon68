@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yue-xin-li
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++and Python
+- 🌱 I’m currently learning C++ and Python
 
 
 <!---

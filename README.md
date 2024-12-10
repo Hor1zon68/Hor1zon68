@@ -2,6 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ and Python
 
+Python从入门到深入:
+https://pythonhowto.readthedocs.io/zh-cn/latest/index.html
 
 <!---
 yue-xin-li/yue-xin-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

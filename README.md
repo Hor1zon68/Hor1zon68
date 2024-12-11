@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yue-xin-li
+- 👋 Hi, I’m @Hor1zon68
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ and Python
 

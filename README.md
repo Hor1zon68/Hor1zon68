@@ -2,6 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ and Python
 
+github搜项目 加上awesome
+
 Python从入门到深入:
 https://pythonhowto.readthedocs.io/zh-cn/latest/index.html
 

@@ -13,6 +13,10 @@ https://docs.python.org/
 下面的关于pyqt的教程解决了我的疑惑，实现UI和逻辑分离的具体事例:
 https://www.cnblogs.com/lovesoo/p/12491361.html
 
+pyqt5官方文档：https://www.riverbankcomputing.com/static/Docs/PyQt5/
+
+pyside6官方文档：https://doc.qt.io/qtforpython-6/gettingstarted.html
+
 
 除了CSDN一些推荐的软件网站看:
 Github: https://github.com
